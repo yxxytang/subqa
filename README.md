@@ -14,7 +14,7 @@ If you use this dataset, please provide a citation to the following paper:
                Anthony K. H. Tung},
     title     = {Do Multi-Hop Question Answering Systems Know How to Answer the Single-Hop
                Sub-Questions?},
-    booktitle = "EACL",
+    booktitle = {{EACL}},
     year      = {2021}
 }
 ```
